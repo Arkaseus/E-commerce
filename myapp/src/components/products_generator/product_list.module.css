@@ -1,0 +1,12 @@
+.product_list{
+    background-color:rgb(184, 231, 250);
+    /* background-image: url(../../assets/ffxiv.jpg);
+    background-position: center; */
+    display: flex;
+    flex-direction: row;    
+    justify-content: center;
+    flex-wrap: wrap;
+    width: auto;
+    padding: 18px;
+    height:100%;
+}

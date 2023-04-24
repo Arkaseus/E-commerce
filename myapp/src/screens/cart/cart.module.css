@@ -1,0 +1,103 @@
+.heading1{
+    margin-left:35%;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+     height: 50px; 
+     font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.cart_container{
+    display:flex;
+    flex-direction:row;
+    height:100vh;
+    width:100%;
+    background-image: url(../../assets/ffxiv2.jpg);
+    
+    background-position: top;
+    /* background-color: rgb(240, 240, 240); */
+   flex-wrap: wrap;
+}
+#cart_left{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    height: 100vh;
+   width:55%;
+   background-color: rgb(196, 243, 255);
+  
+}
+.cart_right{
+    display: flex;
+    flex-direction:column;
+    width:40%;
+    height:100vh;    
+    background-color:rgba(211, 211, 211, 0.555);
+    padding:12px;
+    
+} 
+.cart_card{
+    background-color: rgba(234, 247, 255, 0.938);
+    height: 280px;
+    width: 200px;
+    padding:10px;
+    box-shadow: 5px 5px 5px rgb(183, 216, 255);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+    margin: 15px;
+
+}
+.cart_card:hover{
+    transition:all .3s linear;
+    box-shadow: 5px 5px 5px rgb(125, 170, 226);
+    height: 290px;
+    width: 220px;
+}
+
+.c_image{
+    height:210px ;
+    overflow: hidden;
+}.c_options{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.total_amount{
+    border-top: 2px dotted black;
+}
+.amount{
+    color: rgb(22, 22, 22);
+}
+#total_item{
+    color: rgb(92, 152, 243);
+}
+#quant_sel{
+    height:35px;
+}
+
+.pro_image{
+    height:200px;
+    width:200px;
+   }
+.product_quantity{
+    display:flex;
+    justify-content: space-evenly;
+}
+   .quant_btn{
+    height:26px;
+    width:28px;
+    padding: 1px;
+    font-weight: 700;
+    font-size: large;
+   }
+   .price_input{
+    height:24px;
+    width:22px;
+   }
+   .delete_btn{
+    height:40px;
+    width:60px;
+    margin-top: -14px;
+    padding: 1px;
+   }

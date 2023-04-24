@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin:0;
+    
+}
+.home_btn{
+    margin: 20px;
+    width: fit-content;
+    position: absolute;
+}
+.formcontainer{ background-image: linear-gradient(to right,rgb(170, 194, 250),rgb(29, 164, 241));
+    height: 100vh;
+    width:100vw;    
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.formcontainer form{
+   background-image: linear-gradient(to right,rgb(208, 220, 247),rgb(103, 188, 238));
+    display:flex;
+    flex-direction:column;
+    width:400px;
+    height:500px;
+    padding: 20px;
+    box-shadow:6px 6px 6px rgb(3, 126, 19);
+    color: rgb(0, 0, 0);
+}
+.formcontainer label{
+    padding: 5px;
+    margin-top: 5px;
+
+}
+.formcontainer input{
+    padding:5px;
+   width: 350px;
+   height: 25px;
+   border-radius: 20px;
+   box-shadow: 2px 2px 2px;
+}
+.formcontainer  button{  box-shadow: 2px 2px 3px;
+    margin-top:15px;
+    padding: 8px;
+    width:100px ;
+    cursor:pointer;
+}

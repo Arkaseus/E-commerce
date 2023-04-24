@@ -1,0 +1,58 @@
+a{
+    text-decoration:none;
+}
+.nev{ 
+    /* background-image: url(../../assets/ffxiv2.jpg); */
+    /* background-image: linear-gradient(to right,rgb(39, 160, 55),rgb(125, 250, 125)); */
+    background-image: linear-gradient(to right,rgb(39, 77, 160),rgb(125, 204, 250));
+    
+    
+ height:max-content;
+ width:100vw;
+ display:flex;
+ flex-wrap: wrap;
+ justify-content:space-between;
+ box-shadow: 3px 3px 5px rgb(49, 49, 49);
+ top:0;
+}
+.left {
+ display:flex;
+ flex-wrap: wrap;
+ margin-left:30px;
+ margin-top: 2px;
+}
+.left span  {
+margin-left:15px;
+color:rgb(255, 255, 255);
+font-size:x-large;                                                              
+font-weight: 300px;
+
+}
+.left img{
+ height:40px;
+ width:45;
+ border-radius:80%;
+}
+.right{
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ justify-content: center;
+ 
+}
+.right button{
+    width: 110px;
+    padding: 4px;
+    margin-right: 12px;;
+   background-color: transparent;
+
+}
+.right a {
+ margin-right:30px;
+ color:white;
+}
+
+.right button:hover{
+    color:rgb(255, 255, 255);
+    border-color: whitesmoke;
+}

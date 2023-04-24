@@ -1,0 +1,112 @@
+#container_details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   width:100vw;
+   height:100vh;
+   position:fixed;
+   top:0;
+   
+ }
+ 
+     #details_div{
+       display: flex;
+       flex-direction: column;
+         background-color: rgba(255, 255, 255, 0.945);
+       width: 80%;
+       height: 80%;
+       margin-top: 10px;;
+       position: absolute;
+      padding: 15px;
+      box-shadow:-1px -1px 4px 4px rgb(78, 160, 255);
+      overflow:scroll;
+      border-radius: 10px; 
+     }
+ 
+     .img_details{
+       width:60%;
+       height: 36%;
+     }
+     #cross_details{
+       font-weight:bold;
+        margin-left: 76%;
+       position: fixed;
+       margin-top: -14px;
+       width: 50px;
+       height: 30px;
+       background-color: whitesmoke;
+       border: none;
+       cursor: pointer;
+       box-shadow: -1px 1px grey;
+     }
+     .body_details{
+       margin-top: 50px;
+     }
+     .body2_details{
+       display: flex;
+       flex-direction: row;
+       justify-content:space-between;
+     }
+     .body1_details{
+       display: flex;
+       flex-direction: row;
+       justify-content:space-between;
+       width: 100%;
+       height:30px;
+       border-bottom: 2px solid black;
+     }
+     .body3_details{
+       display: flex;
+       flex-wrap: wrap;
+       flex-direction: column;
+     }
+  .name_details{
+    width: 100%;
+    font-weight:200;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+  }
+ .price1_details{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+    justify-content: space-evenly;
+     background-color: rgb(255, 255, 255);
+     padding: 10px;
+     height: 25px;
+     margin-top: 5px;
+    }
+    .price1_details span{
+       margin-left:10px;
+       width:auto;
+       font-weight:200;
+       font-size: large;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+ .details_btn{
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    border-color: rgb(100, 183, 255);
+    border-radius: 10%;
+    margin-right: 20px;
+    font-size: medium;
+    font-weight: 200;
+    margin-top: 16px;
+ }
+ .details_btn:hover{
+   background-color:  rgb(100, 183, 255);
+   border-color:whitesmoke;
+   color:white;
+ }
+ .des_details{
+  
+    font-size: medium;
+    font-weight: 150;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+ }
+ .pro_image{
+   height:210px;
+   width:200px;
+  }

@@ -1,0 +1,92 @@
+[
+    {
+        "id":"1",
+        "name": "Thermaltake View 380 Liquid-Cooled",
+        "imgurl":"https://imgs.search.brave.com/WE0CVzzFyribkJB2oQWx4KYR7UCTAkkmJC9kkmb71Mg/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Y/UmpjTXlQa2g1V0JS/SjdpVVdXWXRnSGFI/YSZwaWQ9QXBp",
+        "des":"AMD Ryzen 7 5800X CPU Watercooled, AMD X570 Chipset ATX motherboard, 16GB ToughRam DDR4 RGB, 1TB NVMe Gen4 M.2, WiFi, Windows 10 Home.NVIDIA RTX 3080 10GB Video Memory, 3x Display Port/1x HDMI. Graphics card brand may vary.Closed Loop Liquid Cooling with 360mm Radiator.2x USB 3.0, 2x USB 2.0, 1x Headphone, 1x Mic Ports.Full Tower with 3-Sided 4mm Thick Tempered Glass Panels.",
+        "wprice": 230999,     
+        "price": 116921,
+        "stock" : 5     
+    },
+    {
+        "id":"2",
+        "name": "CyberPowerPC GXi1160 Xtreme ",
+        "imgurl":"https://imgs.search.brave.com/B70xCVCSUi_jfOXXQ5MZnDlh-0VTWcmZa80o6-byZXM/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/QnEzTEFWMThhMnNp/bWl0NHN6SVVRSGFI/YSZwaWQ9QXBp",
+        "des":"Destroy the competition with the CyberPowerPC Gamer Xtreme Gaming PC. This Gaming Desktop PC helps you power through to intense gaming sessions with utmost ease. It features the latest generation of high performance Intel Core i7-8700 six-core processor with a 3.2GHz fast processing speeds that provides escalated-performance to deliver professional gaming results that you need the most. Its ultra-quick 16GB DDR4 memory can easily handle system-intensive tasks, such as high definition video playback and gaming.",
+        "wprice": 403999,     
+        "price": 310499,
+        "stock": 5     
+    },
+    {
+        "id":"3",
+        "name": "Thermaltake LCGS AH-380 AIO ",
+        "imgurl":"https://imgs.search.brave.com/9tzj08zpKNEqQgQZmEhIRbRaESh7pyM-BD_dYkxLSy4/rs:fit:493:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5y/VENHNnBWcUZYSU15/ckQ4WktWb053SGFI/SCZwaWQ9QXBp",
+        "des":"Compact performance - b550 matx motherboard with raising 5 3600xt. RTX graphics - NVIDIA RTX 3080 10 GB video memory, 3 x display port + 1 x HDMI; Graphics card brand may vary. Toughram rgb - 16gb 3600mhz ddr4 rgb memory with sync control. Connectivity - USB 3.0, USB 2.0, headphone, MIC ports, HDMI dp,dvi-dStorage - 1tb m.2 gen4Power - 750w 80plus gold power supply. Best of both worlds - radical open and closed off case design for best airflow",
+        "wprice": 293999,     
+        "price": 111499 ,
+        "stock": 5    
+    },
+    {
+        "id":"4",
+        "name": "SkyTech Legacy II Intel i7-9700K",
+        "imgurl":"https://imgs.search.brave.com/FKrtpuYDxXdaVhP82Dko72yQQ2UT8KIK3Z82zTFbtYc/rs:fit:440:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC50/UDRhVXlCcGd3MkRh/WHBseHRJSkFnSGFI/LSZwaWQ9QXBp",
+        "des":"Why settle for mediocrity? Leap forward into SkyTech Legacy II series with the newest architectures from INTEL and NVIDIA. Powered by INTEL CORE i7 Chipset, this 8-core processor delivers great performance with a base speed of 3.6 Ghz.. SkyTech Legacy II delivers the best price performance value gaming rig in the market. The SkyTech Legacy II offers the best budget gaming computer built up to date with the Intel Core i7 9700K Processor and NVIDIA GeForce RTX 2070 SUPER 8GB Graphic Card that can easily run popular games such as Fortnite, CS:GO, League of Legend (LOL), APEX Legends, Player Unknown Battleground (PUBG), Battlefield V, Anthem, The Division 2, Overwatch, and more at 1080P and/or 4K.",
+        "wprice": 243999,     
+        "price": 161499 ,
+        "stock": 5 
+    },
+    {
+        "id":"5",
+        "name": "VIBOX GAMING PC BUNDLE ",
+        "imgurl":"https://imgs.search.brave.com/QZEXgHU-HJK4bqSRONKzOjQkhdXY_lD43eW9ttzvkyg/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5J/blRKYnNieTZPbDFa/YUJvZG5nck1nSGFI/YSZwaWQ9QXBp",
+        "des":"An AMD FX 8300 processor provides the solid platform required for a modern gaming PC, with 8-core technology for improved performance. The NVIDIA GeForce GTX 1050 is a mid range graphics card which allows you to comfortably play the most popular games such as Fortnite, PUBG, GTA, Fallout, Minecraft and League of Legends in beautiful high definition. Finally, we include a 1TB hard drive, providing enough storage space for even the largest library of games",
+        "wprice": 333999,     
+        "price": 191499,
+        "stock": 5     
+    },
+    {
+        "id":"6",
+        "name": "Skytech Archangel Gaming PC",
+        "imgurl":"https://imgs.search.brave.com/lGmq5S5lw8wugcdtp6jGxHNpH7MHlJc8yTfXP26-_L0/rs:fit:478:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5w/QUJRQjJNWjBQdVlU/NWF0S1JRalhnSGFI/VyZwaWQ9QXBp",
+        "des":"If you're trying to build a powerful gaming PC for $1000 then this is exactly what you need to see! It an i5 9600K, an 8GB RX 5700 XT, 16GB of RAM and 500GB of SSD storage!.  The Skytech Archangel is a really good gaming pc for under $1000 that you can't go wrong with. That all said, if you're looking for a build running an AMD Ryzen processor then you might want to check my other $1000 Ryzen build out instead! It comes with an R5 3600 + RX 5700 XT + 16GB of RAM; definitely a beast worth checking out!",
+        "wprice": 143999,     
+        "price": 73499,
+        "stock": 5     
+    },
+    {
+        "id":"7",
+        "name": "iBUYPOWER Element Mini 9300",
+        "imgurl":"https://imgs.search.brave.com/6i9M_FpH7djB_Co5V_Zk0OuRooJmjq4G3BWnKyPFZJQ/rs:fit:483:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5j/eWpzRVlMeF9JTGFG/MFdoMm1zUUR3SGFI/UiZwaWQ9QXBp",
+        "des":"System: AMD Ryzen 3 3100 3.6GHz (3.9GHz Max Turbo) | 8GB DDR4 RAM | 240GB SSD | Genuine Windows 10 Home 64-bitGraphics: AMD Radeon RX 550 2GB Dedicated Graphics Card | Display Connectors - Dual Link DVI-D, HDMIConnectivity: 4 x USB 3.0 | 2 x USB 2.0 | 1x RJ-45 Network Ethernet 10/100/1000 | Audio: 7.1 ChannelSpecial Add-Ons: Tempered Glass RGB Gaming Case | 802.11AC Wi-Fi Included | 16 Color RGB Lighting Case | Free iBuyPower Gaming Keyboard & RGB Gaming Mouse | No BloatwareWarranty: 1 Year Parts & Labor + Free Lifetime US Tech Support | Assembled in the U.S.A",
+        "wprice": 103999,     
+        "price": 52990,
+        "stock": 5     
+    },
+    {
+        "id":"8",
+        "name": "i5-10400F, 16RAM, 1TB, GTX 1650 4GB",
+        "imgurl":"https://imgs.search.brave.com/GN2IurWGofC0cGyNJzZaf45kdRQm1-m553DLs4EnDd0/rs:fit:620:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5y/a1ZxLVg4akdwX2Zp/WC14cEoxVVRBSGFG/cSZwaWQ9QXBp",
+        "des":"1- CPU INTEL i5-10400F 10th GENERATION. 2- MOTHERBOARD H510M ASROCK. 3- RAM 16GB DDR4 3200MHz KINGSTON. 4- SSD 256GB M.2 XPG. 5- VGA GTX 1650 OC 4GB",
+        "wprice": 139990,     
+        "price": 74990,
+        "stock": 5     
+    },
+    {
+        "id":"9",
+        "name": "Asus ROG Zephyrus S17 GX701LV-EV039T",
+        "imgurl":"https://imgs.search.brave.com/MFAEtOM0kcgPNNDCcM-q2_tCglFUx5_kgm3nDarALXA/rs:fit:691:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5X/RGtNMTc0WGVVUWpS/cDZESC1sRm53SGFG/RiZwaWQ9QXBp",
+        "des":"Asus ROG Zephyrus S17 GX701LV-EV039T Gaming Laptop (10th Gen Core i7/ 16GB/ 1TB SSD/ Win10 Home/ 6GB Graph) price in India is ₹1,56,990. You can buy Asus ROG Zephyrus S17 GX701LV-EV039T Gaming Laptop (10th Gen Core i7/ 16GB/ 1TB SSD/ Win10 Home/ 6GB Graph) online on Amazon at lowest price. Asus ROG Zephyrus S17 GX701LV-EV039T Gaming Laptop (10th Gen Core i7/ 16GB/ 1TB SSD/ Win10 Home/ 6GB Graph) was last updated on March 19, 2023",
+        "wprice": 109000,     
+        "price": 122000,
+        "stock": 5     
+    },
+    {
+        "id":"10",
+        "name": "HP Pavilion Gaming FHD Gaming Laptop",
+        "imgurl":"https://imgs.search.brave.com/QduFIMoKLG9PS9iCG3Bn4VVlw-EY-9jIsSFmG8ebdB4/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5o/bzNXRmNNZGF0UXRm/SWJrZmZIenN3SGFI/YSZwaWQ9QXBp",
+        "des":"Processor: AMD Ryzen 5 4600H (3.0 GHz base clock, up to 4.0 GHz max boost clock, 8 MB L3 cache, 6 cores) | Operating System: Windows 10 Home | In the box: Laptop with included battery, charger | Display: 15.6-Inch FHD IPS anti-glare micro-edge WLED-backlit, 250 nits, 45% NTSC (1920 x 1080) | 144 Hz Refresh Rate;Memory & Storage: 8GB DDR4, expandable upto 16 GB | 256GB PCIe NVMe M.2 SSD + 1 TB HDD 7200 RPM. 1TB 7200rpm hard drive + 256GB SSD | Graphics: Nvidia GeForce GTX 1650 Ti (4 GB GDDR5 dedicated)",
+        "wprice": 10999,     
+        "price": 60499,
+        "stock": 5     
+    }
+   ]

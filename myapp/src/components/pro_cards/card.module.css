@@ -1,0 +1,78 @@
+
+.cardholder{
+    width: 240px;
+    height: 352px;
+    margin: 16px;
+    }
+ .card{
+     background-color: rgba(236, 249, 252, 0.938);
+     width: 240px;
+     height: 352px;
+     box-shadow: 5px 5px 5px rgb(183, 216, 255);
+     border-top-left-radius: 20px;
+     border-bottom-right-radius: 20px;
+     
+     margin: 15px;
+     }
+     .image {
+       overflow: hidden;
+       border-top-left-radius: 20px;
+       
+     }
+     .cardbody{
+     padding: 10px;
+     }
+ 
+     .cardbody p{
+     text-align: justify;
+     margin-top: -1px;
+     color: rgb(0, 0, 0);
+     
+     }
+     .card:hover{
+       transition:all .3s linear;
+       box-shadow: 5px 5px 5px rgb(125, 170, 226);
+       height: 358px;
+       width:249px;
+     }
+     .cardbody h3{ color: rgb(0, 0, 0);
+        
+       border-radius:5px; background-color:rgb(252, 222, 125); padding:2px 8px;
+        width:auto;
+        height:30px;
+        overflow: hidden;
+     }
+     .cardbody h4{     
+       border-radius:5px; background-color:rgb(158, 253, 155); padding:2px 8px;
+       width:auto;
+       margin-left: 2px;;
+     }
+     
+     .price{
+        display: flex; 
+        margin-top: 2px;
+     }
+     .view_class{
+       display: flex;  
+    
+     }
+     .view_btn{
+       height: 30px;
+       width: auto;
+       border: none;
+       margin-top: -6px;
+       border-start-end-radius: 10%;
+       cursor:pointer;
+       background-color: rgba(236, 249, 252, 0.938);
+       display: flex;
+       align-items: center;
+       margin-left: 12px;
+     }
+     .view_btn:hover{
+      background-color:rgb(111, 221, 255);
+     }
+     .pro_image{
+        height:210px;
+        width:100%;
+        border-radius: 5px;
+       }
